@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+from typing import Optional
 from models import Frame
 import uuid
 import time
